@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume</title>
+</head>
+<body>
+  <header>
+    <div>
+      <figure><img src="/.jpg"></figure>
+      <h1>Andrew Smith</h1>
+      <div>UI/UX Designer</div>
+    </div>
+    <div>
+      <div>67/B</div>
+      <div>itsnuman.com</div>
+      <div>jan@mail.com</div>
+      <a href=tel:+444034534>+444 034 534</a> 
+    </div>
+  </header>
+  <main>
+    <section>
+      <h2>Profile info</h2>
+      <p>Dolor sit a quam jdjgjh jd ghdljhgk  jdlgjl. dgdyjyy dykg kyl djkfsj kjsy ayj uju au uu. iktgklahhei. ilurij fkjsfklam agdhg hfj go ekfk.</p>
+      <h2>Interests</h2>
+      <span>Music</span>
+      <span>Gaming</span>
+      <span>Biking</span>
+      <h2>Reference</h2>
+      <div>
+        <div>1999 - present</div>
+        <a href="#">Sheikh Al Rayhan</a>
+        <div>CEO, DeviserWeb</div>
+        <div>2000-2012</div>
+        <a href="#">Junaed Ahmed Numan</a>
+        <div>Google Developer</div>      
+      </div>   
+      <h2>Awwards</h2>
+      <div>
+        <ul>
+          <li>Illustration award 2009</li>
+          <li>Web Design award 2012</li>
+          <li>Elite award 2019</li> 
+        </ul>/
+      </div>  
+    </section>
+    <section>
+      <div>
+        <h2>Work Experience</h2>
+        <div>
+          <div>2000 - present</div>
+          <a href="#">UI/UX Designer</a>
+          <div>Microsoft Corp.</div>
+          <p>Nostrud vjdjnjn kndkln klnk klaklk jskhjh</p>
+        </div>
+        <div>
+          <div>2010 - 2014</div>
+          <a href="#">Lead Designer</a>
+          <div>Deviser Web</div>
+          <p>Nostrud vjdjnjn kndkln klnk klaklk jskhjh</p>
+        </div>
+        <div>
+          <div>2010 - 2014</div>
+          <a href="#">Lead Designer</a>
+          <div>Deviser Web</div>
+          <p>Nostrud vjdjnjn kndkln klnk klaklk jskhjh</p>
+        </div>
+      </div>
+      <div>
+        <h2>Education</h2>
+        <div>
+          <div>1999 - 2008</div>
+          <a href="#">High School Graduate</a>
+          <div>Microsoft Corp.</div>
+          <p>Nostrud vjdjnjn kndkln klnk klaklk jskhjh</p>
+        </div>
+        <div>
+          <div>2010 - 2014</div>
+          <a href="#">Lead Designer</a>
+          <div>Deviser Web</div>
+          <p>Nostrud vjdjnjn kndkln klnk klaklk jskhjh</p>
+        </div>
+      </div>
+      <div>
+        <h1>Professional Skills</h1>
+        <div>
+          <ul>
+            <li>User Interface</li>
+            <li>Web Designer</li>
+            <li>Photoshop</li>
+            <li>User Experience</li>
+          </ul>
+        </div>
+      </div>
+  </section>
+  </main>
+</body>
+</html>
